@@ -1,2 +1,3 @@
 Hello Git!
-¡°Ê±¹â´©Ëó»ú¡±
+Hey notepad
+GitHub
